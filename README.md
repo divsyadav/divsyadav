@@ -4,7 +4,7 @@
  -->
  ### 👨🏻‍💻 &nbsp;About Me
  
-😄 &nbsp;She/Her
+😄 &nbsp;She/Her.\
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently persuing B.Tech in Computer Science at Banasthali Vidyapith.\
 🌱 &nbsp;I'm on track for learning more about PHP, Code Ignitor.\
