@@ -1,5 +1,4 @@
 ### Hello I'm Divya Yadav 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hr Management Tool
 - 🌱 I’m currently learning PhP
