@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at divyayadav1192@gmail.com! I'll try to respond as soon as I can.\
 ⚡ &nbsp;Fun fact:Jeelo thodi si hai zindagi:)
 
-<img alt="" src="https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/coding.gif" align="right"/>
+<img alt="" src="https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/code.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
