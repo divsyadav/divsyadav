@@ -34,4 +34,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divsyadav&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/divya-yadav-830b2319b/"><img src="https://img.shields.io/badge/-Divya%20Yadav?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:divyayadav1192@gmail.com"><img src="https://img.shields.io/badge/-divyayadav1192@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
