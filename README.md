@@ -1,4 +1,4 @@
-![Divya Yadav](https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/Divya%20Yadav.gif)
+![Divya Yadav](https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/Divya%40Yadav.gif)
 ### Hello I'm Divya Yadav 👋
 
 - 🔭 I’m currently working on Hr Management Tool
