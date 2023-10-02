@@ -6,8 +6,8 @@
  
 😄 &nbsp;She/Her.\
 💡 &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently persuing B.Tech in Computer Science at Banasthali Vidyapith.\
-🌱 &nbsp;I'm on track for learning more about PHP, Code Ignitor.\
+🎓 &nbsp;Graduated in Computer Science from Banasthali Vidyapith.\
+🌱 &nbsp;I'm on track for learning more about Python, Machine Learning.\
 💬 &nbsp;Ask me about Tech Related Stuff,how to prepare for placements.\
 ✉️ &nbsp;You can shoot me an email at divyayadav1192@gmail.com! I'll try to respond as soon as I can.\
 ⚡ &nbsp;Fun fact:Jeelo thodi si hai zindagi:)
