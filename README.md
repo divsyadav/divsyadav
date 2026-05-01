@@ -55,8 +55,8 @@
 
 <p align="center">
 <a href="https://github.com/divsyadav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divsyadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divsyadav&layout=compact&langs_count=6&theme=algolia&hide=ruby,php,html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divsyadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divsyadav&layout=compact&langs_count=6&theme=algolia&hide=ruby,php,html,css,jupyter%20notebook"/>
 </a>
 </p>
 
