@@ -6,8 +6,9 @@
  
 😄 &nbsp;She/Her.\
 💡 &nbsp;I like to explore new technologies.\
-👩🏻‍💻 &nbsp;Working as SDE 2 in American Express.\
+👩🏻‍💻 &nbsp;Working as SDE 3 at American Express.\
 🎓 &nbsp;Graduated in Computer Science from Banasthali Vidyapith.\
+🎓 &nbsp;Currently persuing M.Tech in AIML from Bits Pilani.\
 🌱 &nbsp;I'm on track for learning more about AI, Machine Learning.\
 💬 &nbsp;Ask me about Tech Related Stuff,how to prepare for placements.\
 ✉️ &nbsp;You can shoot me an email at divyayadav1192@gmail.com! I'll try to respond as soon as I can.\
@@ -18,7 +19,6 @@
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
