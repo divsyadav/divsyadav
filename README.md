@@ -16,15 +16,31 @@
 
 <img alt="" src="https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/code.gif" align="right" height="140px" width="450px"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack  
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=spring)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![Apache Cassandra](https://img.shields.io/badge/-Cassandra-05122A?style=flat&logo=apache-cassandra)&nbsp;
+![Couchbase](https://img.shields.io/badge/-Couchbase-05122A?style=flat&logo=couchbase)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+
+![Google Cloud](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![Google Pub/Sub](https://img.shields.io/badge/-Pub/Sub-05122A?style=flat&logo=google-cloud)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions)&nbsp;
+
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=elastic)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-### ⚙️ &nbsp;GitHub Analytics
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics  
 <p align="center">
 <a href="https://github.com/divsyadav">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divsyadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
