@@ -17,34 +17,46 @@
 <img alt="" src="https://raw.githubusercontent.com/divsyadav/divsyadav/master/assets/code.gif" align="right" height="140px" width="450px"/>
 
 ### 🛠 &nbsp;Tech Stack  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
-![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=spring)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat)&nbsp;
+![Algorithm Design](https://img.shields.io/badge/-Algorithms-05122A?style=flat)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Apache Cassandra](https://img.shields.io/badge/-Cassandra-05122A?style=flat&logo=apache-cassandra)&nbsp;
 ![Couchbase](https://img.shields.io/badge/-Couchbase-05122A?style=flat&logo=couchbase)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
-![Google Cloud](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
-![Google Pub/Sub](https://img.shields.io/badge/-Pub/Sub-05122A?style=flat&logo=google-cloud)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=github-actions)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat)&nbsp;
+![Event Driven](https://img.shields.io/badge/-Event--Driven-05122A?style=flat)&nbsp;
+
+![Tokenization](https://img.shields.io/badge/-Tokenization-05122A?style=flat)&nbsp;
+![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat)&nbsp;
+![HSM](https://img.shields.io/badge/-HSM-05122A?style=flat)&nbsp;
+![Data Masking](https://img.shields.io/badge/-Data%20Masking-05122A?style=flat)&nbsp;
 
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
-![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=elastic)&nbsp;
+![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat)&nbsp;
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-05122A?style=flat)&nbsp;
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=github-actions)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics  
+
 <p align="center">
 <a href="https://github.com/divsyadav">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divsyadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divsyadav&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divsyadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divsyadav&layout=compact&langs_count=6&theme=algolia&hide=ruby,php,html,css"/>
 </a>
 </p>
 
